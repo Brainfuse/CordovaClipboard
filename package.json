@@ -1,5 +1,5 @@
 {
-  "name": "com.brainfuse.cordova.clipboard",
+  "name": "com.verso.cordova.clipboard",
   "version": "0.2.0",
   "description": "Clipboard management plugin for Cordova/PhoneGap",
   "cordova": {
