@@ -17,6 +17,7 @@
     "url": "https://github.com/Brainfuse/CordovaClipboard/issues"
   },
   "homepage": "https://github.com/Brainfuse/CordovaClipboard",
-   "license": "MIT"
+   "license": "MIT",
+  "dependencies":[]
   
 }
