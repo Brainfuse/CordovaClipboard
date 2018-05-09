@@ -1,29 +1,19 @@
 {
-  "name": "com.brainfuse.cordova.clipboard",
-  "version": "0.2",
+  "name": "com.verso.cordova.clipboard",
+  "version": "0.1.0",
   "description": "Clipboard management plugin for Cordova/PhoneGap",
-  "cordova": {
-    "id": "com.verso.cordova.clipboard",
-    "platforms": [
-      "ios",
-      "android"
-    ]
+  "main": "www/clipboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Brainfuse/CordovaClipboard.git"
   },
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=4.0.0"
-    }
-  ],
+  "author": "",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Brainfuse/CordovaClipboard/issues"
   },
-  "homepage": "https://github.com/Brainfuse/CordovaClipboard",
-   "license": "MIT",
-  "dependencies":{}
-  
+  "homepage": "https://github.com/Brainfuse/CordovaClipboard#readme"
 }
