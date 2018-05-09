@@ -3,7 +3,7 @@
   "version": "0.2",
   "description": "Clipboard management plugin for Cordova/PhoneGap",
   "cordova": {
-    "id": "cordova-plugin-clipboard",
+    "id": "com.verso.cordova.clipboard",
     "platforms": [
       "ios",
       "android"
